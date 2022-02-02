@@ -8,6 +8,4 @@
 
   <h3>Redes Sociais</h3>
   <a href='https://www.linkedin.com/in/fernando-shiraishi-de-almeida-a46461224/' target='_blank'><img src='https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white' target='_blank'></a>
-  <a href='https://www.linkedin.com/in/fernando-shiraishi-de-almeida-a46461224/' target='_blank'><img src='https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white' target='_blank'></a>
-  <a href='https://www.linkedin.com/in/fernando-shiraishi-de-almeida-a46461224/' target='_blank'><img src='https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white' target='_blank'></a>
-  <a href='https://www.linkedin.com/in/fernando-shiraishi-de-almeida-a46461224/' target='_blank'><img src='https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white' target='_blank'></a>
+
