@@ -11,6 +11,6 @@
   <img src='https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E'> 
   <img src='https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white'> 
   
-  <h3>Redes Sociais</h3>
+  <h3>Contato</h3>
   <a href='https://www.linkedin.com/in/fernando-shiraishi-de-almeida-a46461224/' target='_blank'><img src='https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white' target='_blank'></a>
 
